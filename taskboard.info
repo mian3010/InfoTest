@@ -1,2 +1,4 @@
 types[] = "lol"
 types[] = "lol1"
+files-folders[] = "files-dir"
+files-folders[] = "files2-dir"
